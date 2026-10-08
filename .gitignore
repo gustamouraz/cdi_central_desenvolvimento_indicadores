@@ -1,0 +1,16 @@
+__pycache__/
+.streamlit/
+data/indicadores.json
+data/datasets.json
+data/dashboards.json
+data/connections.json
+data/uploads/
+data/images/
+data/credentials.enc
+data/.credentials.key
+
+# Ambiente local e registros de execução
+.env
+.env.*
+*.log
+*.tmp
